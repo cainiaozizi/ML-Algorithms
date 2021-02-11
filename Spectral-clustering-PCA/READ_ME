@@ -1,0 +1,5 @@
+
+HW2_Zi_Liu.ipynb: The jupyter notebook that produces the report
+homework2_Zi_Liu.pdf: The report for homework 2 submission
+data folder: The images and files used for homework
+Zi_Liu_HW1_algo.py: the algorithim developed in homework 1 and will be called in homework 2 spectral clustering section.
